@@ -72,3 +72,6 @@ crashlytics-build.properties
 
 packages-lock.json 
 Assets/Materials.meta
+
+#Houdini stuff
+Assets/Plugins/HoudiniEngineUnity/*
